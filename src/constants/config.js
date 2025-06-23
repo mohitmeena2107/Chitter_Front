@@ -1,1 +1,1 @@
-export const server = https://chitter-back.onrender.com;
+export const server = `https://chitter-back.onrender.com`;
